@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Package
+  - Customer
+  - Bush
+  - Boost
+  - ExtraTime
+  - Music
+  - Enviroment
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TireMarks
+    uniqueID: 1593461723
+    locked: 0
+  - name: Smoke
+    uniqueID: 2136322541
+    locked: 0
+  - name: Driver
+    uniqueID: 2999801297
+    locked: 0
